@@ -1,6 +1,8 @@
 # Weakly Supervised Topic Prediction in Political Documents
 This is an introduction for my master thesis "Weakly Supervised Topic Prediction in Political Documents", supervised by Dr. Federico Nanni in University of Mannheim.
 
+Note: Here is not the entire code for the work.
+
 Description
 ------------
 a) Document-based: scripts of baseline, frequency, TF-IDF and PageRank
@@ -30,4 +32,4 @@ g) pywikibot: api bot for querying Wikipedia
 
 Execution Notes
 ----------------
-1) Python scripts are using Python 3.6, and Java scripts are using JDK 1.8
+1) Python scripts are using Python 3.6
